@@ -1,0 +1,14 @@
+.nav ul {
+    list-style-type: none;
+}
+.nav ul li {
+    display: inline-block;
+}
+.nav ul li a {
+    text-decoration: none;
+    background-color: gold;
+    padding: 2px;
+}
+.nav ul li a:hover {
+    background-color: rgba(255, 166, 0, 0.89);
+}
